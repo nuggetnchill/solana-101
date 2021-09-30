@@ -55,6 +55,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
+    "@babel/helper-validator-identifier": "^7.15.7",
     "@babel/preset-env": "^7.15.6",
     "@babel/preset-typescript": "^7.15.0",
     "@testing-library/jest-dom": "^5.14.1",
